@@ -1,2 +1,2 @@
-# html-file-and-project
+# html project
 ok
